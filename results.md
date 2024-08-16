@@ -7,6 +7,10 @@ Scores for [GeekBench ML](https://www.geekbench.com/ml/)
 - Geforce 3080: 17087
 - Ryzen 5800X: 3812
 
+## Work Laptop
+
+i7-10850H: 1299
+
 ## Pixel 6
 
 CPU
